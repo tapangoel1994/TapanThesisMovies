@@ -1,5 +1,4 @@
 # TapanThesisMovies
 Movies associated with my PhD Dissertation.
 
-
-Movies are labelled as Movie <ChapterNumber>.<MovieNumber> as they appear in the dissertation
+Movied as saved in folders chapter wise and numbered within each folder as listed in the dissertation
